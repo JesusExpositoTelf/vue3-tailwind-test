@@ -75,7 +75,7 @@ Sigue estos pasos para configurar el proyecto **"Refugio Literario"** en tu ento
 1. **Clona este repositorio en tu máquina local**
 
    ```bash
-   git clone https://github.com/tu-usuario/refugio-literario.git
+   git clone https://github.com/JesusExpositoTelf/vue3-tailwind-test/
 
 2. **Instala el proyecto**
 
