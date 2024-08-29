@@ -1,0 +1,200 @@
+[
+  {
+    "nombre": "The Catcher in the Rye",
+    "autor": "J.D. Salinger",
+    "fecha_publicacion": "1951-07-16",
+    "precio": 13.49,
+    "rating": 4.3,
+    "imagen": "https://covers.openlibrary.org/b/id/8228691-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "Moby-Dick",
+    "autor": "Herman Melville",
+    "fecha_publicacion": "1851-10-18",
+    "precio": 11.99,
+    "rating": 4.0,
+    "imagen": "https://covers.openlibrary.org/b/id/8100937-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Pride and Prejudice",
+    "autor": "Jane Austen",
+    "fecha_publicacion": "1813-01-28",
+    "precio": 9.99,
+    "rating": 4.7,
+    "imagen": "https://covers.openlibrary.org/b/id/10409015-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "War and Peace",
+    "autor": "Leo Tolstoy",
+    "fecha_publicacion": "1869-01-01",
+    "precio": 19.99,
+    "rating": 4.4,
+    "imagen": "https://covers.openlibrary.org/b/id/8234516-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "The Odyssey",
+    "autor": "Homer",
+    "fecha_publicacion": "800-01-01",
+    "precio": 14.99,
+    "rating": 4.5,
+    "imagen": "https://covers.openlibrary.org/b/id/8278434-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "Great Expectations",
+    "autor": "Charles Dickens",
+    "fecha_publicacion": "1861-08-01",
+    "precio": 10.49,
+    "rating": 4.2,
+    "imagen": "https://covers.openlibrary.org/b/id/8316483-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Crime and Punishment",
+    "autor": "Fyodor Dostoevsky",
+    "fecha_publicacion": "1866-11-01",
+    "precio": 16.99,
+    "rating": 4.8,
+    "imagen": "https://covers.openlibrary.org/b/id/8225540-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "The Brothers Karamazov",
+    "autor": "Fyodor Dostoevsky",
+    "fecha_publicacion": "1880-01-01",
+    "precio": 17.99,
+    "rating": 4.6,
+    "imagen": "https://covers.openlibrary.org/b/id/8225545-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Les Misérables",
+    "autor": "Victor Hugo",
+    "fecha_publicacion": "1862-01-01",
+    "precio": 15.49,
+    "rating": 4.7,
+    "imagen": "https://covers.openlibrary.org/b/id/8271471-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "Wuthering Heights",
+    "autor": "Emily Brontë",
+    "fecha_publicacion": "1847-12-01",
+    "precio": 11.99,
+    "rating": 4.4,
+    "imagen": "https://covers.openlibrary.org/b/id/8218436-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Anna Karenina",
+    "autor": "Leo Tolstoy",
+    "fecha_publicacion": "1877-01-01",
+    "precio": 18.99,
+    "rating": 4.8,
+    "imagen": "https://covers.openlibrary.org/b/id/8235753-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Madame Bovary",
+    "autor": "Gustave Flaubert",
+    "fecha_publicacion": "1857-01-01",
+    "precio": 13.99,
+    "rating": 4.2,
+    "imagen": "https://covers.openlibrary.org/b/id/8225542-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "The Divine Comedy",
+    "autor": "Dante Alighieri",
+    "fecha_publicacion": "1320-01-01",
+    "precio": 17.49,
+    "rating": 4.7,
+    "imagen": "https://covers.openlibrary.org/b/id/8225561-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Don Quixote",
+    "autor": "Miguel de Cervantes",
+    "fecha_publicacion": "1605-01-01",
+    "precio": 14.49,
+    "rating": 4.5,
+    "imagen": "https://covers.openlibrary.org/b/id/8278471-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "The Iliad",
+    "autor": "Homer",
+    "fecha_publicacion": "750-01-01",
+    "precio": 15.99,
+    "rating": 4.6,
+    "imagen": "https://covers.openlibrary.org/b/id/8306471-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Ulysses",
+    "autor": "James Joyce",
+    "fecha_publicacion": "1922-02-02",
+    "precio": 13.99,
+    "rating": 4.1,
+    "imagen": "https://covers.openlibrary.org/b/id/8237151-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "The Count of Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "fecha_publicacion": "1844-08-28",
+    "precio": 16.49,
+    "rating": 4.8,
+    "imagen": "https://covers.openlibrary.org/b/id/8278437-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "Frankenstein",
+    "autor": "Mary Shelley",
+    "fecha_publicacion": "1818-01-01",
+    "precio": 12.99,
+    "rating": 4.3,
+    "imagen": "https://covers.openlibrary.org/b/id/8238561-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "The Picture of Dorian Gray",
+    "autor": "Oscar Wilde",
+    "fecha_publicacion": "1890-07-01",
+    "precio": 11.99,
+    "rating": 4.4,
+    "imagen": "https://covers.openlibrary.org/b/id/8228423-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "The Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "fecha_publicacion": "1937-09-21",
+    "precio": 14.99,
+    "rating": 4.9,
+    "imagen": "https://covers.openlibrary.org/b/id/8232356-L.jpg",
+    "en_oferta": true
+  },
+  {
+    "nombre": "Dracula",
+    "autor": "Bram Stoker",
+    "fecha_publicacion": "1897-05-26",
+    "precio": 10.99,
+    "rating": 4.5,
+    "imagen": "https://covers.openlibrary.org/b/id/8254512-L.jpg",
+    "en_oferta": false
+  },
+  {
+    "nombre": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "fecha_publicacion": "1847-10-16",
+    "precio": 11.49,
+    "rating": 4.7,
+    "imagen": "https://covers.openlibrary.org/b/id/8228590-L.jpg",
+    "en_oferta": false
+  }
+]
